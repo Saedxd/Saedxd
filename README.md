@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saed Younis</h1>
 <div align="center"> <img src="https://github.com/atya10/atya10/blob/main/idcard3.PNG"> </div>
 <h3 align="center">Software Engineering from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/atya10/atya10/blob/main/web_developing.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Saedxd/Saedxd/blob/main/seadyounis99%40gmail.com.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atya10&label=Profile%20views&color=0e75b6&style=flat" alt="atya10" /> </p>
 
