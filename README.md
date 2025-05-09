@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saed Younis</h1>
-<h3 align="center">Senior Software Engineer, Flutter Developer</h3>
+<h3 align="center">Software Engineer, Flutter Developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [MY WEBSITE](https://saedportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [MY WEBSITE](https://saedcv.netlify.app/)
 
-- 📫 How to reach me **saedyounis99@gmail.com**
+- 📫 How to reach me **saedbusiness2021@gmail.com**
 
-- 📄 Know about my experiences [MY WEBSITE](https://saedportfolio.netlify.app/)
+- 📄 Know about my experiences [MY WEBSITE](https://saedcv.netlify.app/)
 
 - ⚡ Fun fact **I am Extremely Intelligent**
 
